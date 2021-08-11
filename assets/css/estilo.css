@@ -3,3 +3,56 @@ body {
     color: black;
     font-weight: bold;
 }
+
+.clear{
+    clear: both;
+}
+  
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 3%;
+    
+}
+  
+header{
+    padding: 0px 0;
+    margin-top:0%;
+    height: 100px;
+    background-color: rgb(71, 71, 71);
+    float: center
+}
+
+.container h3{
+    color:white;
+    text-align: center;
+    padding: 3%;
+    font-size: 25px;
+}
+
+img {
+    position: relative;
+    text-align: center;
+    padding-left: 800px;
+    padding-top: 24px;
+}
+
+.resenha {
+    text-align: justify;
+    font-size: 18px;
+}
+
+.footer {
+    padding: 0px 0;
+    margin-top:0%;
+    height: 100px;
+    background-color: rgb(71, 71, 71);
+    float: center;
+    color: white;
+    text-align: center;
+}
+
+.footer p {
+    padding-top: 40px;
+    font-size: 20px;
+}
